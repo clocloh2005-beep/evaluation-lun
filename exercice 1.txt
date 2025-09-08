@@ -1,0 +1,4 @@
+ecrire une fonction surprise 
+si la longueur est < 1 alors c' est faux 
+alors elle renvoie a une une de chaine de caractére surprise de Orune ou une chainne de caractère avec 1 rune
+on ecrit une autre fonction surprise annexe avec des octets , renvoie a la 1ER letrre de l alphabet ou la dernière en minuscule et en majsucule 
